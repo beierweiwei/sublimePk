@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"ColorHelper",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Icon Fonts",
+		"LESS",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"npm",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SyncedSideBar",
+		"Terminal",
+		"TodoReview",
+		"TypeScript",
+		"View In Browser",
+		"Vue Syntax Highlight"
+	]
+}
